@@ -1,0 +1,16 @@
+--Carl Bivens--
+Phone number: 903-492-4932
+Hometown: Columbia
+School: UofSC
+Expected year of graduation: 2023
+GPA: 3.7
+Class Standing: Junior
+Major: Bachelors of Computer Information Systems
+Minor: Chemistry
+Relevant coursework: Python, Java, JavaScript, HTML, CSS, 
+Scholarships: n/a, 
+Awards: n/a, 
+Experience: Software Developer at JP Morgan; TX | May 2019 - Aug 2019
+Responsibilities: Created a Python program to predict clients needs, Managed incoming customers and future predictions
+Experience: Test Engineer at Bank of America; NY | May 2020 - Aug 2020
+Responsibilities: Created JUnit test cases to test new features of the back end of the banks website, Executed test cases and reported issues to engineering
